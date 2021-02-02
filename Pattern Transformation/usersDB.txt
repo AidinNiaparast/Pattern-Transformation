@@ -1,0 +1,6 @@
+admin admin 0 
+ali 2 0 
+gholi wtyo 0 
+aidin 1 2 10,15178 13,40354 
+helia 1 1 11,15395 
+ABC ABC 2 12,23849 12,36224 
